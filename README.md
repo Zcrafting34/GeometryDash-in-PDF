@@ -3,10 +3,10 @@
 
 Un clon experimental de *Geometry Dash* implementado completamente mediante **AcroForms** (formularios PDF).
 
-## 🎮 Descripción
+##  Descripción
 Este proyecto explora la capacidad de interactividad de los archivos PDF, convirtiendo un documento estático en un entorno de juego funcional.
 
-### ⚠️ Notas de compatibilidad
+###  Notas de compatibilidad
 * **Visores recomendados:** El juego funciona correctamente en la mayoría de los visores de PDF integrados en navegadores modernos (como **PDFium** en Chrome, Edge o Firefox).
 * **Adobe Acrobat:** Puede presentar errores de ejecución o limitaciones de script si no se utiliza la versión de pago (Acrobat Pro).
 
